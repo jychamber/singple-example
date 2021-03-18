@@ -1,0 +1,14 @@
+@import "./reset.css";
+@import "./navbar.css";
+
+:root {
+    --background-color : #bbbbbb;
+}
+
+body {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background-color);
+}

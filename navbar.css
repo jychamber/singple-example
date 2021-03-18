@@ -1,0 +1,18 @@
+.main-nav{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0 15px;
+}
+
+.main-nav_logo > a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-nav_logo > a > img{
+    width: 20%;
+}
